@@ -1,7 +1,8 @@
 #
-name: Demo Push
+name: Push Connector Interface
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
