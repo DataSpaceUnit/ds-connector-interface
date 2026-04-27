@@ -25,7 +25,7 @@ export class ContractTransferDialog {
 
    // Storage information
    inesDataDataAddress: any = {
-    type: 'InesDataStore',
+    type: 'Minio',
     region: ''
   };
 

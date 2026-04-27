@@ -87,7 +87,7 @@ export class AssetCreateComponent implements OnInit {
   };
 
   inesDataStoreAddress: InesDataStoreAddress = {
-    type: 'InesDataStore'
+    type: 'Minio'
   };
 
   assetType: any;
